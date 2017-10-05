@@ -56,4 +56,5 @@ liberal arts or "GenEd" courses have been omitted.
 >[Introduction to Computer Science Programming in Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-11?utm_source=OCW&utm_medium=CHP&utm_campaign=OCW) MITx
 
 ### Term 3
+Work in progress
 

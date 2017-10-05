@@ -29,9 +29,11 @@ liberal arts or "GenEd" courses have been omitted.
 
 #### OR
 
-[Calculus Revisited: Single Variable Calculus}(https://ocw.mit.edu/resources/res-18-006-calculus-revisited-single-variable-calculus-fall-2010)
-[Calculus Revisited: Multivariable Calculus](https://ocw.mit.edu/resources/res-18-007-calculus-revisited-multivariable-calculus-fall-2011)
-[Calculus Revisited: Complex Variables, Differential Equations, and Linear Algebra](https://ocw.mit.edu/resources/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011)
+>[Calculus Revisited: Single Variable Calculus](https://ocw.mit.edu/resources/res-18-006-calculus-revisited-single-variable-calculus-fall-2010)
+
+>[Calculus Revisited: Multivariable Calculus](https://ocw.mit.edu/resources/res-18-007-calculus-revisited-multivariable-calculus-fall-2011)
+
+>[Calculus Revisited: Complex Variables, Differential Equations, and Linear Algebra](https://ocw.mit.edu/resources/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011)
 
 ### Term 1 
 >[Introduction to Differential Equations](https://www.edx.org/course/introduction-differential-equations-mitx-18-031x?utm_source=OCW&utm_medium=CHP&utm_campaign=OCW)
@@ -43,7 +45,7 @@ liberal arts or "GenEd" courses have been omitted.
 
 ### Term 2 
 #### Discrete Mathematics
->[Principles of Discrete Applied Mathematics]9https://ocw.mit.edu/courses/mathematics/18-310-principles-of-discrete-applied-mathematics-fall-2013/)
+>[Principles of Discrete Applied Mathematics](https://ocw.mit.edu/courses/mathematics/18-310-principles-of-discrete-applied-mathematics-fall-2013/)
 
 >[Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/) - covers elementary discrete mathematics for computer science and engineering - 
 

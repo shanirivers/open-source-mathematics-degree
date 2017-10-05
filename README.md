@@ -13,6 +13,8 @@ liberal arts or "GenEd" courses have been omitted.
 
 >[MIT Open Courseware](https://ocw.mit.edu/courses/mathematics/)
 
+>[How to Learn Advanced Mathematics Without Heading to University](https://www.quantstart.com/articles/How-to-Learn-Advanced-Mathematics-Without-Heading-to-University-Part-1)
+
 ### Prerequisites
 
 >[Pre-Calculus](http://ocw.uci.edu/courses/math_1a1b_precalculus.html) UC Irvine
@@ -52,4 +54,6 @@ liberal arts or "GenEd" courses have been omitted.
 
 #### Computation and Algorithms
 >[Introduction to Computer Science Programming in Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-11?utm_source=OCW&utm_medium=CHP&utm_campaign=OCW) MITx
+
+### Term 3
 

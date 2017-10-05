@@ -6,11 +6,12 @@ from top schools like MIT, UC Irvine, et al.. The groupings by Term are meant to
 according to a typical Mathematics track at a college or university and is a work in progress. The focus is on the core courses; 
 liberal arts or "GenEd" courses have been omitted.
 
-### [MIT Open Courseware](https://ocw.mit.edu/courses/mathematics/)
 
 ### Online textbook & Other References
 
 >[Calculus Online Textbook](https://ocw.mit.edu/resources/res-18-001-calculus-online-textbook-spring-2005/) MIT 
+
+>[MIT Open Courseware](https://ocw.mit.edu/courses/mathematics/)
 
 ### Prerequisites
 

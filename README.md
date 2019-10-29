@@ -15,6 +15,21 @@ liberal arts or "GenEd" courses have been omitted.
 
 >[How to Learn Advanced Mathematics Without Heading to University](https://www.quantstart.com/articles/How-to-Learn-Advanced-Mathematics-Without-Heading-to-University-Part-1)
 
+### The Basics
+>[Arithmetic](https://www.khanacademy.org/math/arithmetic) Khan Academy
+
+>[Pre-Algebra](https://www.khanacademy.org/math/pre-algebra) Khan Academy
+
+>[Algebra Basics](https://www.khanacademy.org/math/algebra-basics) Khan Academy
+
+>[Algebra I](https://www.khanacademy.org/math/algebra) Khan Academy
+
+>[Algebra II](https://www.khanacademy.org/math/algebra2) Khan Academy
+
+>[Geometry](https://www.khanacademy.org/math/geometry) Khan Academy
+
+>[Trigonometry](https://www.khanacademy.org/math/trigonometry) Khan Academy
+
 ### Prerequisites
 
 >[Pre-Calculus](http://ocw.uci.edu/courses/math_1a1b_precalculus.html) UC Irvine
@@ -50,11 +65,29 @@ liberal arts or "GenEd" courses have been omitted.
 #### Discrete Mathematics
 >[Principles of Discrete Applied Mathematics](https://ocw.mit.edu/courses/mathematics/18-310-principles-of-discrete-applied-mathematics-fall-2013/) MIT
 
+#### Computation and Algorithms
 >[Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/) MIT - covers elementary discrete mathematics for computer science and engineering
 
-#### Computation and Algorithms
+>[Introduction to Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/) 
+
+>[Design and Analysis of Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/)
+
 >[Introduction to Computer Science Programming in Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-11?utm_source=OCW&utm_medium=CHP&utm_campaign=OCW) MITx
 
-### Term 3
-Work in progress
+>[Machine Learning with Python: form Linear Models to Deep Learning](https://www.edx.org/course/machine-learning-with-python-from-linear-models-to-deep-learning-3?utm_source=ocwprod-mit-opencourseware&utm_medium=affiliate_partner?utm_source=OCW&utm_medium=CHP&utm_campaign=OCW) edx - Starts Feb 3, 2020
 
+### Term 3
+
+>[Statistics for Applications](https://ocw.mit.edu/courses/mathematics/18-650-statistics-for-applications-fall-2016/) MIT, [edx](https://www.edx.org/course/fundamentals-of-statistics-3?utm_source=ocwprod-mit-opencourseware&utm_medium=affiliate_partner?utm_source=OCW&utm_medium=CHP&utm_campaign=OCW) Starts May 11, 2020
+
+#### Applied Mathematics
+
+>[Applied Category Theory](https://ocw.mit.edu/courses/mathematics/18-s097-applied-category-theory-january-iap-2019)
+
+>[Topics in Mathematics with Applications in Finance](https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/)
+
+### Term 4 / Graduate Courses
+
+>[Advanced Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-854j-advanced-algorithms-fall-2008/)
+
+Work in progress... 

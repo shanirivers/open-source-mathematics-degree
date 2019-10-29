@@ -43,51 +43,51 @@ liberal arts or "GenEd" courses have been omitted.
 
 >[Calculus 1B: Integration](https://www.edx.org/course/calculus-1b-integration-mitx-18-01-2x-0?utm_campaign=mitx&utm_medium=partner-marketing&utm_source=direct&utm_content=18-01-1x-to-18-01-2x) MITx
 
->[Calculus 1C: Coordinate Systems & Infinite Series](https://www.edx.org/course/calculus-1c-coordinate-systems-infinite-mitx-18-01-3x-0) MITx
+>[Calculus 1C: Coordinate Systems & Infinite Series](https://www.edx.org/course/calculus-1c-coordinate-systems-infinite-mitx-18-01-3x-0) MITx / edx
 
 #### OR
 
->[Calculus Revisited: Single Variable Calculus](https://ocw.mit.edu/resources/res-18-006-calculus-revisited-single-variable-calculus-fall-2010) MIT
+>[Calculus Revisited: Single Variable Calculus](https://ocw.mit.edu/resources/res-18-006-calculus-revisited-single-variable-calculus-fall-2010) MITx
 
->[Calculus Revisited: Multivariable Calculus](https://ocw.mit.edu/resources/res-18-007-calculus-revisited-multivariable-calculus-fall-2011) MIT
+>[Calculus Revisited: Multivariable Calculus](https://ocw.mit.edu/resources/res-18-007-calculus-revisited-multivariable-calculus-fall-2011) MITx
 
->[Calculus Revisited: Complex Variables, Differential Equations, and Linear Algebra](https://ocw.mit.edu/resources/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011) MIT
+>[Calculus Revisited: Complex Variables, Differential Equations, and Linear Algebra](https://ocw.mit.edu/resources/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011) MITx
 
 ### Term 1 
 >[Introduction to Differential Equations](https://www.edx.org/course/introduction-differential-equations-mitx-18-031x?utm_source=OCW&utm_medium=CHP&utm_campaign=OCW) MITx
 
->[Differential Equations](https://ocw.mit.edu/courses/mathematics/18-03-differential-equations-spring-2010/video-lectures/) MIT
+>[Differential Equations](https://ocw.mit.edu/courses/mathematics/18-03-differential-equations-spring-2010/video-lectures/) MITx
 
->[Linear Algebra ](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/) MIT
+>[Linear Algebra ](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/) MITx
 
 
 ### Term 2 
 #### Discrete Mathematics
->[Principles of Discrete Applied Mathematics](https://ocw.mit.edu/courses/mathematics/18-310-principles-of-discrete-applied-mathematics-fall-2013/) MIT
+>[Principles of Discrete Applied Mathematics](https://ocw.mit.edu/courses/mathematics/18-310-principles-of-discrete-applied-mathematics-fall-2013/) MITx
 
 #### Computation and Algorithms
->[Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/) MIT - covers elementary discrete mathematics for computer science and engineering
+>[Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/) MITx - covers elementary discrete mathematics for computer science and engineering
 
->[Introduction to Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/) 
+>[Introduction to Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)  MITx
 
->[Design and Analysis of Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/)
+>[Design and Analysis of Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/) MITx
 
 >[Introduction to Computer Science Programming in Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-11?utm_source=OCW&utm_medium=CHP&utm_campaign=OCW) MITx
 
->[Machine Learning with Python: form Linear Models to Deep Learning](https://www.edx.org/course/machine-learning-with-python-from-linear-models-to-deep-learning-3?utm_source=ocwprod-mit-opencourseware&utm_medium=affiliate_partner?utm_source=OCW&utm_medium=CHP&utm_campaign=OCW) edx - Starts Feb 3, 2020
+>[Machine Learning with Python: form Linear Models to Deep Learning](https://www.edx.org/course/machine-learning-with-python-from-linear-models-to-deep-learning-3?utm_source=ocwprod-mit-opencourseware&utm_medium=affiliate_partner?utm_source=OCW&utm_medium=CHP&utm_campaign=OCW) MITx, edx - Starts Feb 3, 2020
 
 ### Term 3
 
->[Statistics for Applications](https://ocw.mit.edu/courses/mathematics/18-650-statistics-for-applications-fall-2016/) MIT, [edx](https://www.edx.org/course/fundamentals-of-statistics-3?utm_source=ocwprod-mit-opencourseware&utm_medium=affiliate_partner?utm_source=OCW&utm_medium=CHP&utm_campaign=OCW) Starts May 11, 2020
+>[Statistics for Applications](https://ocw.mit.edu/courses/mathematics/18-650-statistics-for-applications-fall-2016/) MITx, [edx](https://www.edx.org/course/fundamentals-of-statistics-3?utm_source=ocwprod-mit-opencourseware&utm_medium=affiliate_partner?utm_source=OCW&utm_medium=CHP&utm_campaign=OCW) Starts May 11, 2020
 
 #### Applied Mathematics
 
->[Applied Category Theory](https://ocw.mit.edu/courses/mathematics/18-s097-applied-category-theory-january-iap-2019)
+>[Applied Category Theory](https://ocw.mit.edu/courses/mathematics/18-s097-applied-category-theory-january-iap-2019) MITx. Newer course, published 2019
 
->[Topics in Mathematics with Applications in Finance](https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/)
+>[Topics in Mathematics with Applications in Finance](https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/) MITx
 
 ### Term 4 / Graduate Courses
 
->[Advanced Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-854j-advanced-algorithms-fall-2008/)
+>[Advanced Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-854j-advanced-algorithms-fall-2008/) MITx
 
 Work in progress... 

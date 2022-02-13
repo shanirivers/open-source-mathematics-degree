@@ -7,7 +7,7 @@ according to a typical Mathematics track at a college or university and is a wor
 liberal arts or "GenEd" courses have been omitted.
 
 
-### Online textbook & Other References
+### Online Textbook & Other References
 
 >[Calculus Online Textbook](https://ocw.mit.edu/resources/res-18-001-calculus-online-textbook-spring-2005/) MIT 
 
@@ -74,11 +74,11 @@ liberal arts or "GenEd" courses have been omitted.
 
 >[Introduction to Computer Science Programming in Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-11?utm_source=OCW&utm_medium=CHP&utm_campaign=OCW) MITx
 
->[Machine Learning with Python: form Linear Models to Deep Learning](https://www.edx.org/course/machine-learning-with-python-from-linear-models-to-deep-learning-3?utm_source=ocwprod-mit-opencourseware&utm_medium=affiliate_partner?utm_source=OCW&utm_medium=CHP&utm_campaign=OCW) MITx, edx - Starts Feb 3, 2020
+>[Machine Learning with Python: form Linear Models to Deep Learning](https://www.edx.org/course/machine-learning-with-python-from-linear-models-to-deep-learning-3?utm_source=ocwprod-mit-opencourseware&utm_medium=affiliate_partner?utm_source=OCW&utm_medium=CHP&utm_campaign=OCW) 
 
 ### Term 3
 
->[Statistics for Applications](https://ocw.mit.edu/courses/mathematics/18-650-statistics-for-applications-fall-2016/) MITx, [edx](https://www.edx.org/course/fundamentals-of-statistics-3?utm_source=ocwprod-mit-opencourseware&utm_medium=affiliate_partner?utm_source=OCW&utm_medium=CHP&utm_campaign=OCW) Starts May 11, 2020
+>[Statistics for Applications](https://ocw.mit.edu/courses/mathematics/18-650-statistics-for-applications-fall-2016/) MITx, [edx](https://www.edx.org/course/fundamentals-of-statistics-3?utm_source=ocwprod-mit-opencourseware&utm_medium=affiliate_partner?utm_source=OCW&utm_medium=CHP&utm_campaign=OCW)
 
 #### Applied Mathematics
 

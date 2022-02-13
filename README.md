@@ -90,4 +90,10 @@ liberal arts or "GenEd" courses have been omitted.
 
 >[Advanced Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-854j-advanced-algorithms-fall-2008/) MITx
 
+>[Computational Science and Engineering I](https://ocw.mit.edu/courses/mathematics/18-085-computational-science-and-engineering-i-fall-2008/) MITx *Note: This course was previously called "Mathematical Methods for Engineers I." 
+
+>[Mathematical Methods for Engineers II](https://ocw.mit.edu/courses/mathematics/18-086-mathematical-methods-for-engineers-ii-spring-2006/) MIT OpenCourseware
+
+>[Graph Theory and Additive Combinatorics](https://ocw.mit.edu/courses/mathematics/18-217-graph-theory-and-additive-combinatorics-fall-2019/) MIT OpenCourseware
+
 Work in progress... 

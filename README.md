@@ -32,12 +32,15 @@ liberal arts or "GenEd" courses have been omitted.
 
 ### Prerequisites
 
->[Pre-Calculus](http://ocw.uci.edu/courses/math_1a1b_precalculus.html) UC Irvine
+<!---
+For some reason, the single slash after edu doesn't work. 
+-->
+>[Pre-Calculus](https://open.uci.edu/courses/math_1a1b_precalculus.html) UC Irvine
 
 >[Discovery Precalculus: A Creative and Connected Approach](https://www.edx.org/course/discovery-precalculus-creative-connected-utaustinx-ut-prec-10-03x#!) University of Texas at Austin
 
 ### Foundational Subjects
->[Calculus 1](http://ocw.uci.edu/courses/math_2a_calculus_i.html) UC Irvine
+>[Calculus 1](https://ocw.uci.edu/courses/math_2a_calculus_i.html) UC Irvine
 
 >[Calculus 1A: Differentiation](https://www.edx.org/course/calculus-1a-differentiation-mitx-18-01-1x-0#!) MITx
 

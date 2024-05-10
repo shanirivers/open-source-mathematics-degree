@@ -6,14 +6,18 @@ from top schools like MIT, UC Irvine, et al.. The groupings by Term are meant to
 according to a typical Mathematics track at a college or university and is a work in progress. The focus is on the core courses; 
 liberal arts or "GenEd" courses have been omitted.
 
+Get the Open-Source Math Degree without the debt!
 
-### Online Textbook & Other References
+### Free & Open Source Online Textbooks & Other References
+>[Algebra & Trigonometry](https://openstax.org/details/books/algebra-and-trigonometry-2e) OpenStax
 
 >[Calculus Online Textbook](https://ocw.mit.edu/resources/res-18-001-calculus-online-textbook-spring-2005/) MIT 
 
+>[Mathematics for Machine Learning](https://mml-book.github.io) Github
+
 >[MIT Open Courseware](https://ocw.mit.edu/courses/mathematics/)
 
->[How to Learn Advanced Mathematics Without Heading to University](https://www.quantstart.com/articles/How-to-Learn-Advanced-Mathematics-Without-Heading-to-University-Part-1)
+>[How to Learn Advanced Mathematics Without Heading to University](https://www.quantstart.com/articles/How-to-Learn-Advanced-Mathematics-Without-Heading-to-University-Part-1) QuantStart
 
 ### The Basics
 >[Arithmetic](https://www.khanacademy.org/math/arithmetic) Khan Academy

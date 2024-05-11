@@ -34,6 +34,8 @@ Get the Open-Source Math Degree without the debt!
 
 >[Trigonometry](https://www.khanacademy.org/math/trigonometry) Khan Academy
 
+>[Open Source Society University](https://github.com/ossu/math?tab=readme-ov-file) Github
+
 ### Prerequisites
 
 >[Pre-Calculus](https://open.uci.edu/courses/math_1a1b_precalculus.html) UC Irvine
